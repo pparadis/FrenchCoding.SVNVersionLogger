@@ -1,7 +1,7 @@
 #################
 ## Eclipse
 #################
-
+version.txt
 *.pydevproject
 .project
 .metadata
